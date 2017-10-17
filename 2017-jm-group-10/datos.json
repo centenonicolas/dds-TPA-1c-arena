@@ -1,0 +1,57 @@
+[{
+	"empresa": "Facebook",
+	"anioCreacion":2004,
+	"balances": [
+		{
+			"periodo":"201706",
+			"frecuencia":"Semestral",
+			"tipoCuenta":"EBITDA",
+			"valor":"140000000"
+		},{
+			"periodo":"201612",
+			"frecuencia":"Semestral",
+			"tipoCuenta":"EBITDA",
+			"valor":"135000000"
+		}
+	]
+},{
+	"empresa":"Fibertel",
+	"anioCreacion":2000,
+	"balances": [
+		{
+			"periodo":"201612",
+			"frecuencia":"Anual",
+			"tipoCuenta":"FDS",
+			"valor":"134000000"
+		}
+	]
+},{
+	"empresa":"Arena",
+	"anioCreacion":2016,
+	"balances": [
+		{
+			"periodo":"201705",
+			"frecuencia":"Semestral",
+			"tipoCuenta":"IngresoNetoOperacionesContinuas",
+			"valor":"100000"
+		}
+	]
+},{
+	"empresa":"Balances Negativos",
+	"anioCreacion":2017,
+	"balances": [
+		{
+			"periodo":"201705",
+			"frecuencia":"Semestral",
+			"tipoCuenta":"IngresoNetoOperacionesContinuas",
+			"valor":"5"
+		},{
+			"periodo":"201705",
+			"frecuencia":"Semestral",
+			"tipoCuenta":"IngresoNetoOperacionesContinuas",
+			"valor":"-20"
+		}
+	]
+},{
+	"empresa":"Vacia"
+}]
